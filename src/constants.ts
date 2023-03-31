@@ -1,0 +1,1 @@
+export const DB_CONNECTION_STRING: string = "mongodb+srv://vamshidharenumula:zwtKD4zjnfxFGfxC@cluster0.vpdhuie.mongodb.net";
